@@ -15,7 +15,7 @@ SkillCraft Internship Task 1 is a web development project that demonstrates basi
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhamarekomal07/Space-Landing-Page..git
+   git clone https://github.com/bhamarekomal07/Space-Landing-Page.git
 2. Open index.html in your browser to view the project
  
 ## Usage
